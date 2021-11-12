@@ -7,7 +7,8 @@ var mongoose = require('mongoose');
 const { stringify } = require('querystring');
 
 //Set up default mongoose connection
-var mongoDB = 'mongodb://localhost:27017/womens-fashion';
+var mongoDB = "mongodb+srv://lethaibinh:lethaibinh@cluster0.4t0r2.mongodb.net/women-fashion?retryWrites=true&w=majority";
+
 mongoose.connect(mongoDB);
 
 

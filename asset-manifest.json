@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/womenfashion/static/js/main.3233f8ae.chunk.js",
+    "main.js.map": "/womenfashion/static/js/main.3233f8ae.chunk.js.map",
+    "runtime-main.js": "/womenfashion/static/js/runtime-main.f5458530.js",
+    "runtime-main.js.map": "/womenfashion/static/js/runtime-main.f5458530.js.map",
+    "static/js/2.7f1beea8.chunk.js": "/womenfashion/static/js/2.7f1beea8.chunk.js",
+    "static/js/2.7f1beea8.chunk.js.map": "/womenfashion/static/js/2.7f1beea8.chunk.js.map",
+    "index.html": "/womenfashion/index.html",
+    "static/js/2.7f1beea8.chunk.js.LICENSE.txt": "/womenfashion/static/js/2.7f1beea8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5458530.js",
+    "static/js/2.7f1beea8.chunk.js",
+    "static/js/main.3233f8ae.chunk.js"
+  ]
+}

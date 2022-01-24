@@ -73,7 +73,7 @@ let Cart = (props) => {
             {/* <!-- checkout --> */}
             <div class="checkout">
                 <div class="container">
-                    <h3>Your shopping cart contains: <span>3 Products</span></h3>
+                    <h3>Your shopping cart contains: <span></span></h3>
 
                     <div class="checkout-right">
                         <table class="timetable_sub">
